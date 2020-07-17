@@ -1,0 +1,86 @@
+[
+  {
+    "id": "0a90cc72-62c6-4176-ac73-eeb0a35f0104",
+    "data": [
+      {
+        "text": "26-01-2019",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " a holiday",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "25058e3b-ec2d-42fd-b2c0-f76de3cdbc90",
+    "data": [
+      {
+        "text": "Is ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " a holiday",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "76dcb653-f3e7-4f7d-b6cb-e9a660b9f37d",
+    "data": [
+      {
+        "text": "will ",
+        "userDefined": false
+      },
+      {
+        "text": "14th feb 2019",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": true
+      },
+      {
+        "text": " be working",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "62cc8f7b-b067-4747-ba52-99587bf28a39",
+    "data": [
+      {
+        "text": "Is ",
+        "userDefined": false
+      },
+      {
+        "text": "26th of March",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " working",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

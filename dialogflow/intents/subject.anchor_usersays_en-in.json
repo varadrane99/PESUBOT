@@ -1,0 +1,218 @@
+[
+  {
+    "id": "c7afc486-b567-4813-9384-ec1d9a184729",
+    "data": [
+      {
+        "text": "Who is the anchor for ",
+        "userDefined": false
+      },
+      {
+        "text": "IST",
+        "alias": "subject",
+        "meta": "@subject",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "21b41a97-b5c6-4001-b582-08e3a7035f49",
+    "data": [
+      {
+        "text": "Who is the anchor of ",
+        "userDefined": false
+      },
+      {
+        "text": "DAA",
+        "alias": "subject",
+        "meta": "@subject",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "17a3a55b-5391-4a5d-9f8f-e347470d6e8a",
+    "data": [
+      {
+        "text": "who is the anchor ",
+        "userDefined": false
+      },
+      {
+        "text": "dbms",
+        "alias": "subject",
+        "meta": "@subject",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6346d719-4a25-40a3-821e-f7ac654c3eb2",
+    "data": [
+      {
+        "text": "who is the anchor of ",
+        "userDefined": false
+      },
+      {
+        "text": "ids",
+        "alias": "subject",
+        "meta": "@subject",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f02cf548-2711-49c6-9442-e25c1060e482",
+    "data": [
+      {
+        "text": "Who is the anchor teacher of ",
+        "userDefined": false
+      },
+      {
+        "text": "Design and Analysis of Algorithms",
+        "alias": "subject",
+        "meta": "@subject",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "36576baa-905b-4cea-aa46-488df2735672",
+    "data": [
+      {
+        "text": "Who is the anchor for ",
+        "userDefined": false
+      },
+      {
+        "text": "LA",
+        "alias": "subject",
+        "meta": "@subject",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4fa228cf-f9ad-4b99-a6fc-dd17b313e47a",
+    "data": [
+      {
+        "text": "Who is the anchor of ",
+        "userDefined": false
+      },
+      {
+        "text": "TOC",
+        "alias": "subject",
+        "meta": "@subject",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "caae7a97-cfc1-4ecc-94b4-c8eccb611cc5",
+    "data": [
+      {
+        "text": "Who is the anchor for ",
+        "userDefined": false
+      },
+      {
+        "text": "Theory of Computation",
+        "alias": "subject",
+        "meta": "@subject",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d780eb38-fcfe-4b90-8ae4-983cad680665",
+    "data": [
+      {
+        "text": "Who is the anchor for ",
+        "userDefined": false
+      },
+      {
+        "text": "DBMS",
+        "alias": "subject",
+        "meta": "@subject",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "50e5b585-645e-4b64-8dea-20a3c773fc38",
+    "data": [
+      {
+        "text": "Who is the anchor for ",
+        "userDefined": false
+      },
+      {
+        "text": "MPCA",
+        "alias": "subject",
+        "meta": "@subject",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

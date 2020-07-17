@@ -1,0 +1,77 @@
+[
+ {
+   "Date": "15-01-2019",
+   "Reason": "Makara Sankranti",
+   "Type": "Holiday"
+ },
+ {
+   "Date": "26-01-2019",
+   "Reason": "Republic Day",
+   "Type": "Holiday"
+ },
+ {
+   "Date": "04-03-2019",
+   "Reason": "Mahashivaratri",
+   "Type": "Holiday"
+ },
+ {
+   "Date": "08-03-2019",
+   "Reason": "Aatma Trisha",
+   "Type": "Holiday"
+ },
+ {
+   "Date": "09-03-2019",
+   "Reason": "Aatma Trisha",
+   "Type": "Holiday"
+ },
+ {
+   "Date": "06-04-2019",
+   "Reason": "Chandramana Ugadi",
+   "Type": "Holiday"
+ },
+ {
+   "Date": "17-04-2019",
+   "Reason": "Mahaveer Jayanthi",
+   "Type": "Holiday"
+ },
+ {
+   "Date": "18-04-2019",
+   "Reason": "General Elections",
+   "Type": "Holiday"
+ },
+ {
+   "Date": "19-04-2019",
+   "Reason": "Good Friday",
+   "Type": "Holiday"
+ },
+ {
+   "Date": "19-01-2019",
+   "Reason": "Compensation",
+   "Type": "Working"
+ },
+ {
+   "Date": "09-02-2019",
+   "Reason": "Prakalpa",
+   "Type": "Working"
+ },
+ {
+   "Date": "02-03-2019",
+   "Reason": "Compensation",
+   "Type": "Working"
+ },
+ {
+   "Date": "23-03-2019",
+   "Reason": "Compensation",
+   "Type": "Working"
+ },
+ {
+   "Date": "26-04-2019",
+   "Reason": "Last Working Day",
+   "Type": "Working"
+ },
+ {
+   "Date": "07-01-2019",
+   "Reason": "Commencement of Classes",
+   "Type": "Working"
+ }
+]

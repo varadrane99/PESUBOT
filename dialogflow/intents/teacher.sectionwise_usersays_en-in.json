@@ -1,0 +1,270 @@
+[
+  {
+    "id": "404b4839-828a-4959-b3eb-1fc2a2324f69",
+    "data": [
+      {
+        "text": "Who teaches me ",
+        "userDefined": false
+      },
+      {
+        "text": "daa",
+        "alias": "subject",
+        "meta": "@subject",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d6c4a00f-6c36-48ed-b635-37eb8a461f74",
+    "data": [
+      {
+        "text": "in section ",
+        "userDefined": false
+      },
+      {
+        "text": "h",
+        "alias": "section",
+        "meta": "@section",
+        "userDefined": true
+      },
+      {
+        "text": " which professor teaches ",
+        "userDefined": false
+      },
+      {
+        "text": "mpca",
+        "alias": "subject",
+        "meta": "@subject",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "74cd8dcb-6288-40a2-8a61-771a247b5904",
+    "data": [
+      {
+        "text": "who teaches ",
+        "userDefined": false
+      },
+      {
+        "text": "toc",
+        "alias": "subject",
+        "meta": "@subject",
+        "userDefined": false
+      },
+      {
+        "text": " in section ",
+        "userDefined": false
+      },
+      {
+        "text": "e",
+        "alias": "section",
+        "meta": "@section",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "c3da23b1-cfd4-4f5c-8289-87bf956b5f00",
+    "data": [
+      {
+        "text": "who teaches ",
+        "userDefined": false
+      },
+      {
+        "text": "mpca",
+        "alias": "subject",
+        "meta": "@subject",
+        "userDefined": true
+      },
+      {
+        "text": " to section ",
+        "userDefined": false
+      },
+      {
+        "text": "g",
+        "alias": "section",
+        "meta": "@section",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "718409d8-25e2-47ca-9c12-7aafe497121f",
+    "data": [
+      {
+        "text": "who is the ",
+        "userDefined": false
+      },
+      {
+        "text": "la",
+        "alias": "subject",
+        "meta": "@subject",
+        "userDefined": false
+      },
+      {
+        "text": " teacher for ",
+        "userDefined": false
+      },
+      {
+        "text": "b",
+        "alias": "section",
+        "meta": "@section",
+        "userDefined": true
+      },
+      {
+        "text": " section",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e180a18a-2da0-4baf-9c5f-6da85c7f179b",
+    "data": [
+      {
+        "text": "which prof teaches ",
+        "userDefined": false
+      },
+      {
+        "text": "dbms",
+        "alias": "subject",
+        "meta": "@subject",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "f",
+        "alias": "section",
+        "meta": "@section",
+        "userDefined": true
+      },
+      {
+        "text": " section",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4f9eb130-8d43-4c7c-a896-e73c28b20715",
+    "data": [
+      {
+        "text": "who is my teacher",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2e6441d9-3ebc-4b5b-af1f-6ada36edf4d1",
+    "data": [
+      {
+        "text": "who are my teachers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8efee12e-514e-4fd1-ba5c-9ca160ecd873",
+    "data": [
+      {
+        "text": "Who is my ",
+        "userDefined": false
+      },
+      {
+        "text": "LA",
+        "alias": "subject",
+        "meta": "@subject",
+        "userDefined": false
+      },
+      {
+        "text": " teacher",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fcc22ad9-4000-4894-b45d-8cea172cc4bc",
+    "data": [
+      {
+        "text": "in ",
+        "userDefined": false
+      },
+      {
+        "text": "b",
+        "alias": "section",
+        "meta": "@section",
+        "userDefined": true
+      },
+      {
+        "text": " section which prof teaches ",
+        "userDefined": false
+      },
+      {
+        "text": "daa",
+        "alias": "subject",
+        "meta": "@subject",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1a346e29-e4ca-4350-92d0-927d9f221046",
+    "data": [
+      {
+        "text": "which professor teaches ",
+        "userDefined": false
+      },
+      {
+        "text": "dbms",
+        "alias": "subject",
+        "meta": "@subject",
+        "userDefined": false
+      },
+      {
+        "text": " in section ",
+        "userDefined": false
+      },
+      {
+        "text": "a",
+        "alias": "section",
+        "meta": "@section",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

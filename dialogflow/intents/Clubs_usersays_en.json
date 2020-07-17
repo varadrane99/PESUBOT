@@ -1,0 +1,122 @@
+[
+  {
+    "id": "cb8a758a-efdb-4b75-867f-9105d9bfca87",
+    "data": [
+      {
+        "text": "what are the ",
+        "userDefined": false
+      },
+      {
+        "text": "music",
+        "alias": "ClubType",
+        "meta": "@ClubType",
+        "userDefined": false
+      },
+      {
+        "text": " clubs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0229fd9d-aa46-4f9a-ba3e-4071507cf924",
+    "data": [
+      {
+        "text": "cultural",
+        "alias": "ClubType",
+        "meta": "@ClubType",
+        "userDefined": false
+      },
+      {
+        "text": " clubs in pes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "afad4519-522e-42bb-a380-78306a0b9a6f",
+    "data": [
+      {
+        "text": "Music",
+        "alias": "ClubType",
+        "meta": "@ClubType",
+        "userDefined": false
+      },
+      {
+        "text": " clubs in PES University",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f4aa1798-d86f-4f07-9c1b-6e8ef29ee69c",
+    "data": [
+      {
+        "text": "What are the clubs for ",
+        "userDefined": false
+      },
+      {
+        "text": "dance",
+        "alias": "ClubType",
+        "meta": "@ClubType",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "71fed825-3e45-428d-aab2-62f1d20c6dd5",
+    "data": [
+      {
+        "text": "PES University ",
+        "userDefined": false
+      },
+      {
+        "text": "Photography",
+        "alias": "ClubType",
+        "meta": "@ClubType",
+        "userDefined": false
+      },
+      {
+        "text": " clubs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f6f90a81-b726-451b-8f55-fba7c3902b51",
+    "data": [
+      {
+        "text": "What are the ",
+        "userDefined": false
+      },
+      {
+        "text": "technical",
+        "alias": "ClubType",
+        "meta": "@ClubType",
+        "userDefined": false
+      },
+      {
+        "text": " clubs in PES University",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

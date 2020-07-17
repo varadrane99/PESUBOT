@@ -1,0 +1,71 @@
+[
+  {
+    "value": "A",
+    "synonyms": [
+      "a"
+    ]
+  },
+  {
+    "value": "B",
+    "synonyms": [
+      "b"
+    ]
+  },
+  {
+    "value": "C",
+    "synonyms": [
+      "c"
+    ]
+  },
+  {
+    "value": "D",
+    "synonyms": [
+      "d"
+    ]
+  },
+  {
+    "value": "E",
+    "synonyms": [
+      "e"
+    ]
+  },
+  {
+    "value": "Ele-3",
+    "synonyms": [
+      "Ele-3"
+    ]
+  },
+  {
+    "value": "Ele-4",
+    "synonyms": [
+      "Ele-4",
+      "ele-4"
+    ]
+  },
+  {
+    "value": "F",
+    "synonyms": [
+      "f"
+    ]
+  },
+  {
+    "value": "G",
+    "synonyms": [
+      "g"
+    ]
+  },
+  {
+    "value": "H",
+    "synonyms": [
+      "h"
+    ]
+  },
+  {
+    "value": "Lab",
+    "synonyms": [
+      "Lab",
+      "lab",
+      "laboratory"
+    ]
+  }
+]

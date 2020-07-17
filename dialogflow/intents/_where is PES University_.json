@@ -1,0 +1,37 @@
+{
+  "id": "f6e5ae2f-f815-408d-9392-40b8ace890f6",
+  "name": "\"where is PES University\"",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "PES University is located in Outer Ring Rd, Banashankari 3rd Stage, Banashankari, Bengaluru, Karnataka 560085"
+        },
+        {
+          "type": 0,
+          "lang": "en-in",
+          "condition": "",
+          "speech": "PES University is located inOuter Ring Rd, Banashankari 3rd Stage, Banashankari, Bengaluru, Karnataka 560085"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

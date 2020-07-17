@@ -1,0 +1,84 @@
+[
+  {
+    "value": "Creative",
+    "synonyms": [
+      "Creative",
+      "creative"
+    ]
+  },
+  {
+    "value": "Cultural",
+    "synonyms": [
+      "Cultural",
+      "cultural"
+    ]
+  },
+  {
+    "value": "Dance",
+    "synonyms": [
+      "Dance",
+      "dance"
+    ]
+  },
+  {
+    "value": "Design",
+    "synonyms": [
+      "Design",
+      "design"
+    ]
+  },
+  {
+    "value": "Hospitality",
+    "synonyms": [
+      "hospitality"
+    ]
+  },
+  {
+    "value": "Music",
+    "synonyms": [
+      "Music",
+      "music"
+    ]
+  },
+  {
+    "value": "Others",
+    "synonyms": [
+      "Others",
+      "others"
+    ]
+  },
+  {
+    "value": "Photography",
+    "synonyms": [
+      "Photography",
+      "photography"
+    ]
+  },
+  {
+    "value": "Research",
+    "synonyms": [
+      "Research",
+      "research"
+    ]
+  },
+  {
+    "value": "Social Awareness",
+    "synonyms": [
+      "social awareness"
+    ]
+  },
+  {
+    "value": "Society",
+    "synonyms": [
+      "Society",
+      "society"
+    ]
+  },
+  {
+    "value": "Technical",
+    "synonyms": [
+      "Technical",
+      "technical"
+    ]
+  }
+]

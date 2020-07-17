@@ -1,0 +1,9 @@
+{
+  "id": "9f0688cd-918c-4c0b-a6e0-82bcddc6c419",
+  "name": "semester",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

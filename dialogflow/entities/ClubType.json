@@ -1,0 +1,9 @@
+{
+  "id": "28cfe96a-05c2-4793-b4a6-7bbfa7314459",
+  "name": "ClubType",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

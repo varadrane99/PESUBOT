@@ -1,0 +1,33 @@
+[
+  {
+    "value": "Chairperson of Computer Science UG",
+    "synonyms": [
+      "Chairperson of CS",
+      "Chairperson of CS department",
+      "Chairperson of Computer Science",
+      "Chairperson of Computer Science Department"
+    ]
+  },
+  {
+    "value": "Chancellor",
+    "synonyms": [
+      "Chancellor",
+      "chancellor"
+    ]
+  },
+  {
+    "value": "Pro Chancellor",
+    "synonyms": [
+      "Pro Chancellor",
+      "pro chancellor"
+    ]
+  },
+  {
+    "value": "Vice-Chancellor",
+    "synonyms": [
+      "Vice Chancellor",
+      "Vice-Chancellor",
+      "vice chancellor"
+    ]
+  }
+]

@@ -1,0 +1,225 @@
+[
+  {
+    "id": "335c02c1-3aa3-4855-bd66-80dae9df9253",
+    "data": [
+      {
+        "text": "Subjects in ",
+        "userDefined": false
+      },
+      {
+        "text": "5th",
+        "alias": "semester",
+        "meta": "@semester",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "sem",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cda15b21-4f5c-4a31-aef8-c96669c49b95",
+    "data": [
+      {
+        "text": "What are the subjects in ",
+        "userDefined": false
+      },
+      {
+        "text": "6th",
+        "alias": "semester",
+        "meta": "@semester",
+        "userDefined": false
+      },
+      {
+        "text": " semester?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0b2198e1-4b97-4aaf-b32c-2569b96abd71",
+    "data": [
+      {
+        "text": "Subjects in ",
+        "userDefined": false
+      },
+      {
+        "text": "third",
+        "alias": "semester",
+        "meta": "@semester",
+        "userDefined": false
+      },
+      {
+        "text": " semester?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0c07822b-3ccc-4942-986b-5069287375e3",
+    "data": [
+      {
+        "text": "Courses that are available in ",
+        "userDefined": false
+      },
+      {
+        "text": "3rd",
+        "alias": "semester",
+        "meta": "@semester",
+        "userDefined": false
+      },
+      {
+        "text": " semester?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "94d1a81a-8130-4e7d-ad27-7cc3352b7b2c",
+    "data": [
+      {
+        "text": "Courses in ",
+        "userDefined": false
+      },
+      {
+        "text": "sem5",
+        "alias": "semester",
+        "meta": "@semester",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "41ca7778-b8e3-4da2-aa2b-be22c7f3a0a0",
+    "data": [
+      {
+        "text": "what are the courses in ",
+        "userDefined": false
+      },
+      {
+        "text": "4th semester",
+        "alias": "semester",
+        "meta": "@semester",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5b8ec5da-f4af-405d-b1bc-caad4456d22b",
+    "data": [
+      {
+        "text": "course information in ",
+        "userDefined": false
+      },
+      {
+        "text": "fourth semester",
+        "alias": "semester",
+        "meta": "@semester",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b2a0140c-6f11-41f0-8f3a-4e625ad6e7c0",
+    "data": [
+      {
+        "text": "courses in ",
+        "userDefined": false
+      },
+      {
+        "text": "sem 6",
+        "alias": "semester",
+        "meta": "@semester",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "317a0918-d7b1-4bb4-b925-e3740e9bc716",
+    "data": [
+      {
+        "text": "Courses that are there in ",
+        "userDefined": false
+      },
+      {
+        "text": "sem 4",
+        "alias": "semester",
+        "meta": "@semester",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d5939af8-c2f9-4e6d-a65e-383924ab77df",
+    "data": [
+      {
+        "text": "Fifth semester",
+        "alias": "semester",
+        "meta": "@semester",
+        "userDefined": true
+      },
+      {
+        "text": " course information",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f78d30fa-9a47-4a00-a141-285967b04660",
+    "data": [
+      {
+        "text": "What courses are available in the ",
+        "userDefined": false
+      },
+      {
+        "text": "third semester",
+        "alias": "semester",
+        "meta": "@semester",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

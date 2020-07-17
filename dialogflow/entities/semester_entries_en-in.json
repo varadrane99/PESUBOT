@@ -1,0 +1,42 @@
+[
+  {
+    "value": "sem3",
+    "synonyms": [
+      "3",
+      "3rd",
+      "sem 3",
+      "third",
+      "three"
+    ]
+  },
+  {
+    "value": "sem4",
+    "synonyms": [
+      "4",
+      "4th",
+      "four",
+      "fourth",
+      "sem 4"
+    ]
+  },
+  {
+    "value": "sem5",
+    "synonyms": [
+      "5",
+      "5th",
+      "fifth",
+      "five",
+      "sem 5"
+    ]
+  },
+  {
+    "value": "sem6",
+    "synonyms": [
+      "6",
+      "6th",
+      "sem 6",
+      "six",
+      "sixth"
+    ]
+  }
+]

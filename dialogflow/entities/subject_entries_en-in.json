@@ -1,0 +1,351 @@
+[
+  {
+    "value": "UE16CS301",
+    "synonyms": [
+      "CN",
+      "Computer Networks "
+    ]
+  },
+  {
+    "value": "UE16CS302",
+    "synonyms": [
+      "IOS",
+      "Introduction to Operating Systems"
+    ]
+  },
+  {
+    "value": "UE16CS303",
+    "synonyms": [
+      "PPL",
+      "Principles of Programming Languages"
+    ]
+  },
+  {
+    "value": "UE16CS304",
+    "synonyms": [
+      "CN Lab",
+      "Computer Networks Laboratory"
+    ]
+  },
+  {
+    "value": "UE16CS305",
+    "synonyms": [
+      "IOS Lab",
+      "Introduction to Operating Systems Laboratory"
+    ]
+  },
+  {
+    "value": "UE16CS311",
+    "synonyms": [
+      "AA",
+      "Advanced Algorithms"
+    ]
+  },
+  {
+    "value": "UE16CS312",
+    "synonyms": [
+      "ADBMS",
+      "Advanced Data Base Management Systems"
+    ]
+  },
+  {
+    "value": "UE16CS313",
+    "synonyms": [
+      "BD",
+      "Big Data"
+    ]
+  },
+  {
+    "value": "UE16CS314",
+    "synonyms": [
+      "MC",
+      "Multimedia Computing"
+    ]
+  },
+  {
+    "value": "UE16CS321",
+    "synonyms": [
+      "CGV",
+      "Computer Graphics and Visualization"
+    ]
+  },
+  {
+    "value": "UE16CS322",
+    "synonyms": [
+      "DA",
+      "Data Analytics"
+    ]
+  },
+  {
+    "value": "UE16CS323",
+    "synonyms": [
+      "FL",
+      "Fuzzy Logic"
+    ]
+  },
+  {
+    "value": "UE16CS324",
+    "synonyms": [
+      "SC",
+      "Scientific Computing "
+    ]
+  },
+  {
+    "value": "UE16CS325",
+    "synonyms": [
+      "AI",
+      "Artificial Intelligence"
+    ]
+  },
+  {
+    "value": "UE16CS331",
+    "synonyms": [
+      "CNS",
+      "Computer Network Security"
+    ]
+  },
+  {
+    "value": "UE16CS332",
+    "synonyms": [
+      "SAN",
+      "Storage Area Networks"
+    ]
+  },
+  {
+    "value": "UE16CS333",
+    "synonyms": [
+      "NLP",
+      "Natural Language Processing"
+    ]
+  },
+  {
+    "value": "UE16CS334",
+    "synonyms": [
+      "MCC",
+      "Multi Core Computing"
+    ]
+  },
+  {
+    "value": "UE16CS335",
+    "synonyms": [
+      "GP",
+      "Generic Programming"
+    ]
+  },
+  {
+    "value": "UE16CS336",
+    "synonyms": [
+      "DC",
+      "Drone Computing"
+    ]
+  },
+  {
+    "value": "UE16CS341",
+    "synonyms": [
+      "SDN",
+      "Software Defined Networks"
+    ]
+  },
+  {
+    "value": "UE16CS342",
+    "synonyms": [
+      "KM",
+      "Knowledge Management"
+    ]
+  },
+  {
+    "value": "UE16CS343",
+    "synonyms": [
+      "SMS",
+      "System Modeling and Simulation"
+    ]
+  },
+  {
+    "value": "UE16CS344",
+    "synonyms": [
+      "NM",
+      "Network Management"
+    ]
+  },
+  {
+    "value": "UE16CS345",
+    "synonyms": [
+      "DIP",
+      "Digital Image Processing"
+    ]
+  },
+  {
+    "value": "UE16CS346",
+    "synonyms": [
+      "ACN",
+      "Advanced Computer Networks"
+    ]
+  },
+  {
+    "value": "UE16CS347",
+    "synonyms": [
+      "RC",
+      "Reconfigurable Computing"
+    ]
+  },
+  {
+    "value": "UE16CS351",
+    "synonyms": [
+      "CD",
+      "Compiler Design",
+      "compiler design"
+    ]
+  },
+  {
+    "value": "UE16CS352",
+    "synonyms": [
+      "CC",
+      "Cloud Computing",
+      "cloud computing"
+    ]
+  },
+  {
+    "value": "UE16CS353",
+    "synonyms": [
+      "ML",
+      "Machine Learning",
+      "UE16CS353",
+      "ml"
+    ]
+  },
+  {
+    "value": "UE16CS354",
+    "synonyms": [
+      "CD Lab",
+      "Compiler Design Laboratory",
+      "cd lab",
+      "cd_lab"
+    ]
+  },
+  {
+    "value": "UE16CS355",
+    "synonyms": [
+      "ML Lab",
+      "Machine Learning Laboratory"
+    ]
+  },
+  {
+    "value": "UE16CS356X",
+    "synonyms": [
+      "ST3",
+      "Special Topic III"
+    ]
+  },
+  {
+    "value": "UE17CS201",
+    "synonyms": [
+      "DDCO",
+      "Digital Design and Computer Organization"
+    ]
+  },
+  {
+    "value": "UE17CS202",
+    "synonyms": [
+      "DS",
+      "Data Structures"
+    ]
+  },
+  {
+    "value": "UE17CS203",
+    "synonyms": [
+      "IDS",
+      "Introduction to Data Science"
+    ]
+  },
+  {
+    "value": "UE17CS204",
+    "synonyms": [
+      "WT",
+      "Web Technologies I"
+    ]
+  },
+  {
+    "value": "UE17CS205",
+    "synonyms": [
+      "DML",
+      "Discrete Mathematics and Logic"
+    ]
+  },
+  {
+    "value": "UE17CS206",
+    "synonyms": [
+      "DDCO Lab",
+      "Digital Design and Computer Organization Laboratory"
+    ]
+  },
+  {
+    "value": "UE17CS207",
+    "synonyms": [
+      "DS Lab",
+      "Data Structures Laboratory"
+    ]
+  },
+  {
+    "value": "UE17CS208X",
+    "synonyms": [
+      "ST1",
+      "Special Topic I"
+    ]
+  },
+  {
+    "value": "UE17CS251",
+    "synonyms": [
+      "DAA",
+      "Design and Analysis of Algorithms"
+    ]
+  },
+  {
+    "value": "UE17CS252",
+    "synonyms": [
+      "DBMS",
+      "Data Base Management Systems"
+    ]
+  },
+  {
+    "value": "UE17CS253",
+    "synonyms": [
+      "MPCA",
+      "Microprocessor and Computer Architecture Architecture"
+    ]
+  },
+  {
+    "value": "UE17CS254",
+    "synonyms": [
+      "TOC",
+      "Theory of Computation"
+    ]
+  },
+  {
+    "value": "UE17CS255",
+    "synonyms": [
+      "DAA Lab",
+      "Design and Analysis of Algorithms Laboratory"
+    ]
+  },
+  {
+    "value": "UE17CS256",
+    "synonyms": [
+      "MPCA Lab",
+      "Microprocessor and Computer Architecture Laboratory"
+    ]
+  },
+  {
+    "value": "UE17CS257X",
+    "synonyms": [
+      "ST2",
+      "Special Topic II"
+    ]
+  },
+  {
+    "value": "UE17MA251",
+    "synonyms": [
+      "LA",
+      "Linear Algebra Applications"
+    ]
+  }
+]

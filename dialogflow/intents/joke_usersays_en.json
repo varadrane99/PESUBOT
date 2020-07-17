@@ -1,0 +1,38 @@
+[
+  {
+    "id": "6a0c3b83-4d71-4346-9f59-a3b463b25aca",
+    "data": [
+      {
+        "text": "tell me one joke",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "97f19085-2e3e-4f1c-9541-d861c6eab7c9",
+    "data": [
+      {
+        "text": "joke, please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a40dc9c4-4fdf-44ca-b617-920dbbfc6923",
+    "data": [
+      {
+        "text": "tell me a joke",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

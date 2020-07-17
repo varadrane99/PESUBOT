@@ -1,0 +1,210 @@
+[
+  {
+    "id": "1e761a72-9f5e-4965-bf23-62b5986fb077",
+    "data": [
+      {
+        "text": "books",
+        "alias": "reference",
+        "meta": "@reference",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "DAA",
+        "alias": "subject",
+        "meta": "@subject",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ac0708da-2658-493a-9acb-78af7c61fa65",
+    "data": [
+      {
+        "text": "text",
+        "alias": "reference",
+        "meta": "@reference",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "DBMS",
+        "alias": "subject",
+        "meta": "@subject",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3c8abc12-a874-4e9f-8913-ef37d2f19fb4",
+    "data": [
+      {
+        "text": "text books",
+        "alias": "reference",
+        "meta": "@reference",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "LA",
+        "alias": "subject",
+        "meta": "@subject",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "eeb3111a-ab3c-4791-8a60-a102e0c5d37e",
+    "data": [
+      {
+        "text": "help",
+        "alias": "reference",
+        "meta": "@reference",
+        "userDefined": true
+      },
+      {
+        "text": " required for ",
+        "userDefined": false
+      },
+      {
+        "text": "TOC",
+        "alias": "subject",
+        "meta": "@subject",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "29099dbc-35ab-4dec-a019-e5fa11281c9a",
+    "data": [
+      {
+        "text": "what is the ",
+        "userDefined": false
+      },
+      {
+        "text": "reference book",
+        "alias": "reference",
+        "meta": "@reference",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "MPCA",
+        "alias": "subject",
+        "meta": "@subject",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7614121b-d1e4-4052-9298-a0c960c87924",
+    "data": [
+      {
+        "text": "what should i ",
+        "userDefined": false
+      },
+      {
+        "text": "refer",
+        "alias": "reference",
+        "meta": "@reference",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "IDS",
+        "alias": "subject",
+        "meta": "@subject",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3e2837df-6058-4ef5-8360-44e1e87508b6",
+    "data": [
+      {
+        "text": "reference",
+        "alias": "reference",
+        "meta": "@reference",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "IST",
+        "alias": "subject",
+        "meta": "@subject",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "262d009c-df61-401c-852b-9271cfe56909",
+    "data": [
+      {
+        "text": "what is the ",
+        "userDefined": false
+      },
+      {
+        "text": "book",
+        "alias": "reference",
+        "meta": "@reference",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "computer network security",
+        "alias": "subject",
+        "meta": "@subject",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,210 @@
+[
+  {
+    "id": "06bd0f35-c5b9-4e4d-b581-1912d436f03e",
+    "data": [
+      {
+        "text": "help",
+        "alias": "reference",
+        "meta": "@reference",
+        "userDefined": true
+      },
+      {
+        "text": " required for ",
+        "userDefined": false
+      },
+      {
+        "text": "TOC",
+        "alias": "subject",
+        "meta": "@subject",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ec47e7c5-1812-4cf4-8c31-29fdc8ced72f",
+    "data": [
+      {
+        "text": "what should i ",
+        "userDefined": false
+      },
+      {
+        "text": "refer",
+        "alias": "reference",
+        "meta": "@reference",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "IDS",
+        "alias": "subject",
+        "meta": "@subject",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "78481bdc-9cd2-4eeb-84ca-5a480909b884",
+    "data": [
+      {
+        "text": "text",
+        "alias": "reference",
+        "meta": "@reference",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "DBMS",
+        "alias": "subject",
+        "meta": "@subject",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "06dffc7d-2e27-4c6f-8aab-85e8b16edcc8",
+    "data": [
+      {
+        "text": "what is the ",
+        "userDefined": false
+      },
+      {
+        "text": "reference book",
+        "alias": "reference",
+        "meta": "@reference",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "MPCA",
+        "alias": "subject",
+        "meta": "@subject",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "24c56822-735f-47ce-8816-aa9fee3cd167",
+    "data": [
+      {
+        "text": "text books",
+        "alias": "reference",
+        "meta": "@reference",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "LA",
+        "alias": "subject",
+        "meta": "@subject",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "49fa9b3d-7e20-4f54-96e3-e33a8ed53212",
+    "data": [
+      {
+        "text": "reference",
+        "alias": "reference",
+        "meta": "@reference",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "IST",
+        "alias": "subject",
+        "meta": "@subject",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7a69bdc8-637c-4061-b329-a95279d7a262",
+    "data": [
+      {
+        "text": "what is the ",
+        "userDefined": false
+      },
+      {
+        "text": "book",
+        "alias": "reference",
+        "meta": "@reference",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "computer network security",
+        "alias": "subject",
+        "meta": "@subject",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "06275a2b-e733-4610-84f6-c50305b59244",
+    "data": [
+      {
+        "text": "books",
+        "alias": "reference",
+        "meta": "@reference",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "DAA",
+        "alias": "subject",
+        "meta": "@subject",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

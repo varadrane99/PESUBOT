@@ -1,0 +1,62 @@
+{
+  "id": "215ab545-91bf-4e89-8817-64a12677dd52",
+  "name": "teacher.sectionwise",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "0eb4b2ce-fed8-49ac-a385-b75c62f62126",
+          "required": true,
+          "dataType": "@subject",
+          "name": "subject",
+          "value": "$subject",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "4c5eea67-7033-4d31-805a-30bac468e40e",
+          "required": false,
+          "dataType": "@section",
+          "name": "section",
+          "value": "$section",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en-in",
+          "condition": "",
+          "speech": "Please enter the Course name along with the section (Ex:- Who teaches toc in section a )"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Please enter the Course name along with the section (Ex:- Who teaches toc in section a )"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
